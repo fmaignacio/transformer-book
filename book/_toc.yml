@@ -1,0 +1,10 @@
+format: jb-book
+root: intro
+parts:
+  - caption: Fundamentos
+    chapters:
+    - file: cap1/index
+
+  - caption: Transformer
+    chapters:
+    - file: cap2/index
